@@ -47,10 +47,6 @@ body {
   font-family: var(--font-family);
 }
 
-selector {
-    property: var(--variable-name)
-}
-
 /* Nav Bar Styling  */
 nav {
     position: sticky;
