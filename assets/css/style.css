@@ -51,7 +51,7 @@ selector {
     property: var(--variable-name)
 }
 
-/* nav positioning  */
+/* Nav Bar Styling  */
 nav {
     position: sticky;
     top: 0;
