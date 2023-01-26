@@ -1,4 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
+h1 {
+    color: #fcfcfc;
+}
+
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap"); */
 
 /* Variables */
 /* :root {
@@ -48,7 +52,7 @@ body {
 /* CSS Resets Ends */
 
 /* Navbar */
-nav {
+/* nav {
     position: sticky;
     top: 0;
     left: 0;
@@ -59,7 +63,7 @@ nav {
     padding: 1.5rem 3.5rem;
     /* background-color: var(--bg-color); */
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
-  }
+  } */
 
   /* nav h1 {
     color: var(--primary-color);
