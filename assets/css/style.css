@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
 
 /* Variables */
-:root {
+/* :root {
   --font-family: "Roboto", sans-serf;
   --normal-font: 400;
   --bold-font: 700;
@@ -15,15 +15,15 @@
   --bottom-margin-2: 1rem;
   --line-height: 1.7rem;
   --transition: 0.3s;
-}
+} */
 /* Variables end */
 
-html {
+/* html {
   scroll-behavior: smooth;
-}
+} */
 
 /* CSS Resets */
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -44,8 +44,10 @@ a:hover {
 
 body {
   font-family: var(--font-family);
-}
+} */
+/* CSS Resets Ends */
 
+/* Navbar */
 nav {
     position: sticky;
     top: 0;
@@ -55,11 +57,11 @@ nav {
     align-items: center;
     justify-content: space-between;
     padding: 1.5rem 3.5rem;
-    background-color: var(--bg-color);
+    /* background-color: var(--bg-color); */
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
   }
 
-  nav h1 {
+  /* nav h1 {
     color: var(--primary-color);
   }
   
@@ -88,4 +90,5 @@ nav {
     background-color: transparent;
     cursor: pointer;
     display: none;
-  }
+  } */
+  /* Navbar Ends */
