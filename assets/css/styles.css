@@ -7,7 +7,7 @@
   --bold-font: 700;
   --bolder-font: 900;
   --bg-color: #fcfcfc;
-  --primary-color: #4756df;
+  --primary-color: #061065;
   --secondary-color: #ff7235;
   --primary-shadow: #8b8eaf;
   --secondary-shadow: #a17a69;
@@ -214,7 +214,7 @@ nav ul li {
 
 /* Projects section ends */
 
-/* Contacts section */
+/* Contacts section
 .contact {
   margin-top: 2rem;
 }
@@ -275,11 +275,11 @@ nav ul li {
   background-color: var(--primary-color);
   border: 2px solid var(--primary-color);
   cursor: pointer;
-}
+} */
 /* Contacts section ends */
 
 /* Social buttons */
-.socials {
+/* .socials {
   display: flex;
   flex-direction: column;
   position: fixed;
@@ -290,7 +290,7 @@ nav ul li {
 .socicon {
   width: 2rem;
   height: 2rem;
-}
+} */
 /* Social button ends */
 
 /* Scroll to top button */
